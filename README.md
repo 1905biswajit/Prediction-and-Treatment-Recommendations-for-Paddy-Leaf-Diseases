@@ -1,6 +1,6 @@
 # Prediction and Treatment Recommendations for Paddy Leaf Diseases using Deep Learning and Ensemble-Based Classification Approaches
 
-## Abstract
+
 Paddy cultivation plays a crucial role in global food security, yet its productivity is often threatened by various leaf diseases. Early detection and proper treatment recommendations can significantly improve yield and minimize crop loss.  
 
 This research presents a **deep learning-based approach** for predicting **paddy leaf stage** and **disease classification** to provide targeted treatment recommendations.  
